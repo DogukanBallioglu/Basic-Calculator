@@ -4,7 +4,9 @@ A simple console-based calculator application.
 
 ## Usage
 Run the project with a C# IDE or terminal:
+```bash
 dotnet run
+```
 
 ## Features
 - Addition, subtraction, multiplication, and division
